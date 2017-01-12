@@ -2,4 +2,4 @@
   这是一段普通的文本，直接回车不能换行<br>
   要使用<\br>
 # 标题1
-  [链接]http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001432170937506ecfb2f6adf8e4757939732f3e32b781c000
+  This is a [link](https://github.com)
